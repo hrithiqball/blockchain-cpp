@@ -1,0 +1,15 @@
+# Compiled object files
+*.o
+
+# Compiled binary
+BlockchainSimulation
+
+# CMake build directory
+/build/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+*.swp
