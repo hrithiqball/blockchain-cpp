@@ -26,5 +26,5 @@ make
 make clean
 
 # to run the binary
-./build/BlockChainSimulation
+make run
 ```
